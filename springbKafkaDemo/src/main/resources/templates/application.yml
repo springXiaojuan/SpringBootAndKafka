@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /jhp
+confPath: D:\work\ideawork\jhp\src\main\resources

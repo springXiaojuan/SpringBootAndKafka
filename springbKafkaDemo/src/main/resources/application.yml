@@ -1,0 +1,5 @@
+server:
+  port: 8080
+confPath: Users/spring/Desktop/work/code/springbKafkaDemo/src/main/resources
+
+#confPath: Users\spring\Desktop\work\code\springbKafkaDemo\src\main\resources
